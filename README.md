@@ -1,4 +1,4 @@
-# ATIVIDADES BACK-END
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/> ATIVIDADES BACK-END
 tecnologias e linguagens utilizadas: Java, Maven, IntelliJ IDEA
 
 <br/>
