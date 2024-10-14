@@ -1,0 +1,31 @@
+1 - Daniel Dalalama destacou a importância do conhecimento de négócios versus o uso de soluções prontas e automatizadas. Cite pelo menos uma solução de segurança usada em sistemas web de backend e justifique o porquê da possibilidade de não ser efetiva contra todos os tipos de ameaças?
+
+R: Uma solução de segurança que pode ser utilizada em sistemas web de backend é WAF, que atua protegendo e filtrando tráfegos indesejados HTTP, e que também atua impedindo que dados sem autorização saiam. Essa solução não é efetiva contra todos os tipos de ameaças porque é uma aplicação que requer atualizações constantes para acompanhar a evolução e mudanças das ameaças.
+
+link pesquisa: https://www.akamai.com/pt/glossary/what-is-a-waf#:~:text=Um%20WAF%20(firewall%20de%20aplica%C3%A7%C3%B5es%20Web)%20%C3%A9%20uma%20solu%C3%A7%C3%A3o%20de,dados%20n%C3%A3o%20autorizados%20do%20app
+
+
+---------------------------------------------------------------------------------------
+2 - Marcelo Malaguitti defendeu a importância de agências de segurança especializadas na proteção contra ameaças cibernéticas. Cite pelo menos um tipo de ataque conhecido contra sistemas de backend e de que forma isso impactou nos negócios de uma empresa e/ou nos usuários.
+
+R: Um tipo de ataque conhecido é o "SQL Injetion", golpe que está diretamente relacionado com a validação de dados, já que é por meio de uma entrada de dados do sistema que o invasor consegue efetuar esse tipo de golpe. Quando o invasor alcança sucesso utilizando essa técnica, ele pode desencadear diversas complicação, como o vazamento de dados sensíveis dos clientes que estão cadastrados.
+
+link pesquisa: https://www.w3schools.com/sql/sql_injection.asp
+
+
+---------------------------------------------------------------------------------------
+3 - Mateus Buogo destacou a importância de pensar em segurança no desenvolvimento das aplicações. Cite pelo menos duas tecnologias que podem ser utilizadas para proteger sistemas de backend contra ataques cibernéticos.
+
+R: Uma tecnologia que pode ser utilizada para proteger sistemas de backend são as criptografias, que codificam os dados os "protegendo", e outra tecnologia que pode ser utilizada para proteção do backend é a validação de dados, evitando que conteúdos maliciosos sejam injetados de forma indevida.
+
+link pesquisa: https://www.kaspersky.com.br/resource-center/definitions/encryption
+link pesquisa: https://www.w3schools.com/sql/sql_injection.asp
+
+
+---------------------------------------------------------------------------------------
+4 - Meirylene Avelino reforçou a importância da cultura de segurança no dia a dia de todas as pessoas como forma de evitar golpes de engenharia social. Elabore pelo menos uma técnica empregada numa API Web que pode evitar com que usuários sejam vítimas de golpes de engenharia social.
+
+R: Uma técnica que pode ser empregada em uma API Web é a autenticação de mais de um fator, pois desse modo, não basta apenas o golpista descobrir a senha para conseguir invadir a conta.
+
+link pesquisa: https://support.microsoft.com/pt-br/topic/o-que-%C3%A9-autentica%C3%A7%C3%A3o-multifator-e5e39437-121c-be60-d123-eda06bddf661
+
